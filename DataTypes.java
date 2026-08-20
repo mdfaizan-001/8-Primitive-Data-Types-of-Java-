@@ -1,5 +1,6 @@
 public class DataTypes {
     public static void main(String[] args) {
+        
         byte age = 20;
         short marks = 500;
         int salary = 50000;
@@ -8,6 +9,7 @@ public class DataTypes {
         double pi = 3.14159;
         char grade = 'A' ;
         boolean isPass = true;
+        
         System.out.println(age);
         System.out.println(marks);
         System.out.println(salary);
